@@ -6,10 +6,11 @@ GO语言后端工作者，常用开发工具集合
 - python
 
 # 编辑器
-- goland
-- vim
-- atom
-  - plugins: Markdown Preview Enhanced
+- vscode
+  - git graph
+  - git history
+  - git lens
+- typora
   
 # 测试工具
 - Postman
@@ -20,7 +21,11 @@ GO语言后端工作者，常用开发工具集合
 - AdBlocker
 - Proxy SwitchyOmega
 - JsonView
-- 百度网盘不限速下载
+
+# brew
+```
+https://mirrors.ustc.edu.cn/help/brew.git.html?highlight=brew
+```
 
 # 构建工具
 - make
@@ -43,29 +48,31 @@ GO语言后端工作者，常用开发工具集合
 - wireshark
 - shadowsocks
 - curl
+- wget
 - telnet
 - tranceroute
 - openssl
 - frp
 
 # 数据库
-- navicat
-- rdm
+- ali dms
+- ardm
 - mysql-client
 - redis-cli
-- influx
 
 # docker
 - centos
-- golang:1.12
+- golang
 - mysql
 - redis
+- mongo
 - rabbitmq:3-management
 - influxdb
-- grafana
+- grafana/grafana
+- prom/prometheus
 
 # 通讯
-- QQ
+- TIM
 - 微信
 - 钉钉
 - 企业微信
