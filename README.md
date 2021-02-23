@@ -38,9 +38,8 @@ https://mirrors.ustc.edu.cn/help/brew.git.html?highlight=brew
 - Word
 - PowerPoint
 - Excel
-- OneNote
 - Xmind
-- OmniGraffle
+- draw.io
 - Visio
 - Hugo
    
